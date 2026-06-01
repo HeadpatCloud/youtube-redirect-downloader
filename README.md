@@ -21,7 +21,7 @@ A self-hosted service that downloads YouTube videos, uploads them to S3-compatib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Headpat-Community/youtube-redirect-downloader.git
+git clone https://github.com/headpatcloud/youtube-redirect-downloader.git
 cd youtube-redirect-downloader
 ```
 
